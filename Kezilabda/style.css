@@ -1,5 +1,5 @@
 body{
-    background-color:blanchedalmond ;
+    background-color: grey;
     margin-top: 20px;
 }
 p {
@@ -14,4 +14,7 @@ p {
 #levikep{
   width: 400px;
   height: 400px;
+}
+#container{
+  background-color: aliceblue;
 }
