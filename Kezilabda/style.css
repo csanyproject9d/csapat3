@@ -1,12 +1,20 @@
 body{
     background-color:blanchedalmond ;
+    margin-top: 20px;
 }
 p {
 
     margin-right: 60px;
     margin-left: 60px;
   }
+<<<<<<< HEAD
 #levikep{
     height: 400px;
     width: 400px;
 }
+=======
+  #kép{
+    width: 30%;
+    height: 30%;
+  }
+>>>>>>> 2aeb27d2ed09157e2737163abcad510b632ede74
