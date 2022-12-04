@@ -12,7 +12,15 @@ p {
 }
 #m{
   margin-bottom: 10px;
-  margin-left: 10px;
+  margin-left: 5px;
+  margin-top: 15px;
+}
+#mark{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#kép{
+  width: 40%;
 }
 #levikep{
   width: 400px;
