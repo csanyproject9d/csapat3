@@ -1,6 +1,8 @@
 body{
     background-color: aquamarine;
     color: #143282;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
 
 #cont{
@@ -13,5 +15,9 @@ body{
 #margin{s
     margin-top: 25px;
 }
+ 
 
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
