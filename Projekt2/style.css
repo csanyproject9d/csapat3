@@ -1,21 +1,27 @@
 body{
     background-color: aquamarine;
     color: #143282;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
 
 #cont{
- background-color: azure;
+ background-color: beige;
 }
 #mkép{
     width: 85%;
     margin-top: 25px;
 }
-#margin{
+#margin{s
     margin-top: 25px;
     margin-right: 80px;
 }
 #margin2{
     margin-left: 30px;
 }
+ 
 
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
