@@ -1,10 +1,10 @@
 body{
     background-color: aquamarine;
-
+    color: #143282;
 }
 
 #cont{
- background-color: white;
+ background-color: azure;
 }
 #mkép{
     width: 85%;
@@ -13,3 +13,5 @@ body{
 #margin{
     margin-top: 25px;
 }
+
+
