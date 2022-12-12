@@ -4,13 +4,13 @@ body{
 }
 
 #cont{
- background-color: azure;
+ background-color: rgb(192, 240, 240);
 }
 #mkép{
     width: 85%;
     margin-top: 25px;
 }
-#margin{
+#margin{s
     margin-top: 25px;
 }
 
