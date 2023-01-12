@@ -13,16 +13,6 @@ body{
     width: 85%;
     margin-top: 25px;
 }
-#mkép2{
-    width: 90%;
-    margin-top: 150px;
-}
-#mszöveg{
-    margin-left: 40px;
-}
-#nevezetessegek{
-    margin-top: 50px;
-}
 
 #margin{
     margin-top: 25px;
@@ -46,34 +36,14 @@ h1{
 }
 
 #altsom{
-    width: 40%;
-    height: 40%;
+    width: 50%;
+    height: 50%;
 }
 
-#vissza{
-    width: 40%;
-    height: 40%;
-    margin: top -20px;
+#metabla{
+    margin-top: -460px;
 }
-
 #pido{
     background-color: aqua;
 }
-<<<<<<< HEAD:Projekt2_kesz/Projekt2 (4)/Projekt2/style.css
-#kep1{
-    width: 300px;
-    height: 300px;
-}
-#delau{
-    width: 640px;
-    height: 420px;
-=======
-#imglevi{
-    width: 260px;
-    height: 180px;
->>>>>>> f9d908ff0f11c1ec2fe3c8a5ec741eb01742328a:Projekt2/style.css
-}
-
-
-
 
