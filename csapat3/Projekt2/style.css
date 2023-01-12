@@ -36,24 +36,14 @@ h1{
 }
 
 #altsom{
-    width: 40%;
-    height: 40%;
+    width: 50%;
+    height: 50%;
 }
 
-#vissza{
-    width: 40%;
-    height: 40%;
-    margin: top -20px;
+#metabla{
+    margin-top: -460px;
 }
-
 #pido{
     background-color: aqua;
 }
-#imglevi{
-    width: 260px;
-    height: 180px;
-}
-
-
-
 
