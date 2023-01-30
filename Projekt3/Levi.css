@@ -1,0 +1,17 @@
+#divek{
+    border-style: groove;
+    border-color: orange;
+    border-left: 0px;
+    border-right: 0px;
+}
+img{
+    width: 380px;
+    height: 400px;
+}
+#col4{
+    border-style: groove;
+    border-color: orange;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+}
