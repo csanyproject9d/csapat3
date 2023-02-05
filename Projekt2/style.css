@@ -1,0 +1,75 @@
+body{
+    background-color: aquamarine;
+    color: #143282;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#cont{
+ background-color: beige;
+}
+
+#mkép{
+    width: 85%;
+    margin-top: 25px;
+}
+#mkép2{
+    width: 90%;
+    margin-top: 150px;
+}
+#mszöveg{
+    margin-left: 40px;
+}
+#nevezetessegek{
+    margin-top: 50px;
+}
+
+#margin{
+    margin-top: 25px;
+    margin-right: 80px;
+}
+
+#margin2{
+    margin-left: 30px;
+}
+ 
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#metro{
+    width: 70%;
+    height: 70%;
+    margin-top: 30px;
+   
+}
+
+#altsom{
+    width: 40%;
+    height: 40%;
+}
+
+#vissza{
+    width: 40%;
+    height: 40%;
+    margin: top -20px;
+}
+
+#pido{
+    background-color: aqua;
+}
+
+#kep1{
+    width: 300px;
+    height: 300px;
+}
+#delau{
+    width: 640px;
+    height: 420px;
+}
+
+
+
+
+
