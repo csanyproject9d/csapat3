@@ -4,7 +4,7 @@
     border-left: 0px;
     border-right: 0px;
 }
-img{
+#img{
     width: 380px;
     height: 400px;
 }
@@ -19,5 +19,11 @@ img{
 #idk{
     margin-top: 200px;
 }
+
+#nyil{
+    width: 50px;
+    height: 40px;
+}
+
 
 
